@@ -60,8 +60,8 @@ This project is a Power BI dashboard built to analyze sales performance across d
 
 ### 📌 Main Dashboard View
 
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](screenshot/Dashboard1.png)
+![Dashboard](screenshot/Dashboard2.png)
 
 
 ---

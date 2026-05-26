@@ -110,7 +110,7 @@ Sales-Insights-Project/
 
 ## 🔹 Author
 
-**Siril**
+**Siril kanth**
 B.Tech (CSE - AI)
 Aspiring Data Analyst
 

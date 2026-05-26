@@ -111,7 +111,7 @@ Sales-Insights-Project/
 ## 🔹 Author
 
 **Siril**
-Final Year B.Tech (CSE - AI)
+B.Tech (CSE - AI)
 Aspiring Data Analyst
 
 ---
